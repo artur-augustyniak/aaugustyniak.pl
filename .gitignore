@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+storage/*
+!storage/.gitkeep
+pub/*
+!pub/.gitkeep
+music/*
+!music/.gitkeep
